@@ -1,0 +1,17 @@
+# Windows / PCS7 临时文件
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*.log
+
+# 压缩包和临时导出
+*.zip
+*.rar
+*.7z
+
+# 密钥与账号信息
+.env
+*.key
+*.pem
+secrets.*
